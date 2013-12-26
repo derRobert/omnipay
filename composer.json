@@ -93,10 +93,5 @@
 	"minimum-stability": "dev",
     "require-dev": {
         "omnipay/tests": "~2.0"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
     }
 }
