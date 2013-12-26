@@ -90,8 +90,5 @@
 			"url": "git@github.com:derRobert/omnipay-sofortueberweisung.git"
 		}
 	],	
-	"minimum-stability": "dev",
-    "require-dev": {
-        "omnipay/tests": "~2.0"
-    }
+	"minimum-stability": "dev"
 }
