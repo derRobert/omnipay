@@ -82,7 +82,15 @@
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
         "omnipay/worldpay": "~2.0"
+        "derrobert/omnipay-sofortueberweisung": "dev-master"
     },
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:derRobert/omnipay-sofortueberweisung.git"
+		}
+	],	
+	"minimum-stability": "dev",
     "require-dev": {
         "omnipay/tests": "~2.0"
     },
