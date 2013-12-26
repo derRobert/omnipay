@@ -81,7 +81,7 @@
         "omnipay/securepay": "~2.0",
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
-        "omnipay/worldpay": "~2.0"
+        "omnipay/worldpay": "~2.0",
         "derrobert/omnipay-sofortueberweisung": "dev-master"
     },
 	"repositories": [
